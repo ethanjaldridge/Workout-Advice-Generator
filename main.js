@@ -9,4 +9,3 @@ Workout Advice Generator
 3. You should STOP: staying up late, eating junk food, skipping the gym
 */
 
-console.log('I am a node program');
